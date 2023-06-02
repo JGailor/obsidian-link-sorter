@@ -1,5 +1,5 @@
 {
-	"name": "smart-links",
+	"name": "Link Sorter",
 	"version": "0.1.0",
 	"description": "Obsidian plugin to allow customizing behavior when clicking on new links.",
 	"main": "main.js",

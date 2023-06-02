@@ -6,3 +6,16 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.setting-container {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.setting-container .setting-name {
+	flex-grow: 4;
+}
+
+.settings-container-button {
+	align: right;
+}
